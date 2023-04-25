@@ -4,3 +4,5 @@ The aim of this assignment was to analyze video recordings of a spring-mass syst
 - The file "Track the can" contains the code that tracks the position of the can in the videos. The code also saves the coordinates of the can so that it's not needed to track it every single time. 
 
 - The file "PCA assignment2" contains the code that reduces the dimension of the dataset, and then applies the Sparse Identification of Nonlinear Dynamics (SINDy) method to learn the equations of motion that govern the dynamics of this system. 
+
+- Theoretical background and results obtained from running these codes can be found the repository "Reports."
